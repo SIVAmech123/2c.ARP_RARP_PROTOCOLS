@@ -1,6 +1,6 @@
-# 2c.SIMULATING ARP /RARP PROTOCOLS
-### NAME : RAHUL VIJAY V
-### REG.NO : 212223040164
+## 2c.SIMULATING ARP /RARP PROTOCOLS
+### NAME : SIVAKUMAR R
+### REG.NO : 212223230209
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
